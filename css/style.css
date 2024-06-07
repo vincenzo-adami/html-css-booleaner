@@ -73,3 +73,36 @@ ul {
 }
 
 /* table style */
+.data-table {
+  border: 2px solid #ffffff;
+}
+
+.data-table thead {
+  color: #ffffff;
+  background-color: #7fa6fb;
+}
+
+.data-table-column-dimension {
+  width: 25%;
+}
+
+.data-table-column-dimension-description {
+  width: 50%;
+}
+
+.data-table-row-color {
+  background-color: #dfe5f2;
+}
+
+/* footer */
+footer {
+  background-color: #313a6b;
+  height: 48px;
+}
+
+.copyright {
+  color: #ffffff;
+  text-align: center;
+  /* margin-bottom: 0; */
+  padding: 12px;
+}
